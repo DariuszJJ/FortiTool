@@ -10,4 +10,4 @@ This script automates the generation of a Fortigate configuration file for manag
 
 Use Case
 
-The script is ideal for administrators managing multiple users who require two-factor authentication and group-based access control. It eliminates manual configuration by generating a ready-to-use CLI script from a simple CSV file.
+The script is ideal for administrators managing multiple users who require two-factor authentication and group-based access control. It eliminates manual configuration by generating a ready-to-use CLI script from a simple CSV file.output_file = "fortigate_ldap_users_and_group_config.txt" open copy and run on CLI.
